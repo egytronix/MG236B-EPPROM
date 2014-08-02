@@ -109,7 +109,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Arduino Code\EPPROM_Serial_Command.ino" />
+    <None Include="Arduino Code\EPPROM_Serial_Command\EPPROM_Serial_Command.ino" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
